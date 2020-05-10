@@ -1,4 +1,4 @@
-# Simple React App for demonstating the Basic Calculator functionality:
+ Simple React App for demonstating the Basic Calculator functionality:
 
 ## Available Steps to clone and run the repo locally
 
